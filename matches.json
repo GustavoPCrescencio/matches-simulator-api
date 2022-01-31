@@ -3,7 +3,7 @@
        "descricao": "Luta de Personagens de Naruto",
        "local": {
        "nome": "Vila da Folha",
-       "imagem": "TODO"
+       "imagem": "https://static.wikia.nocookie.net/naruto/images/f/f2/Konohagakure_no_Sato.png/revision/latest/scale-to-width-down/350?cb=20140809020103&path-prefix=pt-br"
    },
        "primeiro personagem": {
        "nome": "Madara",
@@ -12,7 +12,7 @@
        "genjutsu": 5,
        "taijutsu": 5,
        "ninjutsu": 5,
-       "imagem": "TODO"
+       "imagem": "https://observatoriodeseries.uol.com.br/wp-content/uploads/2021/06/madara_uchiha-1024x576.png "
      },
        "segundo personagem": {
        "nome": "Naruto",
@@ -21,7 +21,7 @@
        "genjutsu": 3,
        "taijutsu": 5,
        "ninjutsu": 5,
-       "imagem": "TODO"
+       "imagem": "https://nerdhits.com.br/wp-content/uploads/2021/11/naruto-modo-sabio-1.jpg"
     }  
   }
 ]
