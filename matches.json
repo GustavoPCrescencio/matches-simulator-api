@@ -1,1 +1,27 @@
-
+[
+  {
+       "descricao": "Luta de Personagens de Naruto",
+       "local": {
+       "nome": "Vila da Folha",
+       "imagem": "TODO"
+   },
+       "primeiro personagem": {
+       "nome": "Madara",
+       "forca": 5,
+       "QI em combate": 5,
+       "genjutsu": 5,
+       "taijutsu": 5,
+       "ninjutsu": 5,
+       "imagem": "TODO"
+     },
+       "segundo personagem": {
+       "nome": "Naruto",
+       "forca": 5,
+       "QI em combate": 3,
+       "genjutsu": 3,
+       "taijutsu": 5,
+       "ninjutsu": 5,
+       "imagem": "TODO"
+    }  
+  }
+]
